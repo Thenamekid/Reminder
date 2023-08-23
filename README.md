@@ -1,2 +1,3 @@
 # Reminder
-It reminds you when its the time you set!
+
+just run it, if you want to edit it feel free to do so!
